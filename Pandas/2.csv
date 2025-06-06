@@ -4,7 +4,7 @@ Day,Temperature,Windspeed,Event
 03-01-2025,27,54,Cloudy
 04-01-2025,23,56,Sunny
 05-01-2025,NaN,NaN,NaN
-06-01-2025,0,56,Sunny
+06-01-2025,0,       56,Sunny
 07-01-2025,19,23,Cloudy
 08-01-2025,NaN,78,Sunny
 09-01-2025,NaN,45,NaN
